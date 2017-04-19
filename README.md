@@ -1,6 +1,6 @@
 # npmtest-hasha
 
-#### test coverage for  [hasha (v2.2.0)](https://github.com/sindresorhus/hasha)  [![npm package](https://img.shields.io/npm/v/npmtest-hasha.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hasha) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hasha.svg)](https://travis-ci.org/npmtest/node-npmtest-hasha)
+#### basic test coverage for  [hasha (v2.2.0)](https://github.com/sindresorhus/hasha)  [![npm package](https://img.shields.io/npm/v/npmtest-hasha.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hasha) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hasha.svg)](https://travis-ci.org/npmtest/node-npmtest-hasha)
 
 #### Hashing made simple. Get the hash of a buffer/string/stream/file.
 
